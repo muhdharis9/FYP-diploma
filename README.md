@@ -1,1 +1,1 @@
-Download DB first to run project
+import sql file first to run project
